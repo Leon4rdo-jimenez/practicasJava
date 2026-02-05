@@ -9,7 +9,7 @@ public class Ejercicio3 {
     
     public static void main(String[] args) {
         
-        int contador =1;
+       
         int numero = Integer.parseInt(JOptionPane.showInputDialog("Introduzca un numero entero no importa los digitos: "));
         String numeroAString = String.valueOf(numero);
         
